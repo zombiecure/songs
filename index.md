@@ -63,3 +63,5 @@ I'm not special. I'm not "woke." I'm just shocked and writing songs about it.
 *"You can stop a person but not an idea"*
 
 Last updated: January 2025
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fzombiecure.github.io%2Fsongs&count_bg=%23555555&title_bg=%23555555&title=zombies+awakened&edge_flat=false)
