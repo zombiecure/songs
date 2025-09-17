@@ -1,3 +1,12 @@
+<meta property="og:title" content="Zombie Cure: Free Protest Songs Exposing Hidden American History" />
+<meta property="og:description" content="Public domain folk songs revealing documented truths about American exploitation. No copyright. Free downloads." />
+<meta property="og:image" content="https://zombiecure.github.io/songs/zombie-cure-banner.jpg" />
+<meta property="og:url" content="https://zombiecure.github.io/songs/" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+
+![Zombie Cure: Truth Songs for Awakening](./zombie-cure-banner.png)
+
 ---
 title: "Zombie Cure: Free Protest Songs Exposing Hidden American History"
 description: "Public domain folk songs revealing documented truths about American exploitation. No copyright. Free downloads. Verify everything yourself."
