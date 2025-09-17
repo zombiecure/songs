@@ -1,3 +1,11 @@
+---
+title: "Zombie Cure: Free Protest Songs Exposing Hidden American History"
+description: "Public domain folk songs revealing documented truths about American exploitation. No copyright. Free downloads. Verify everything yourself."
+keywords: "protest songs, folk music, American history, free music, public domain, truth songs, protest folk, Woody Guthrie style, no copyright music, exploitation history"
+author: "The Zombie Cure Collective"
+og:image: "https://zombiecure.github.io/songs/zombie-cure-banner.png"
+---
+
 # 🧟 The Zombie Cure: Truth Songs for Awakening
 
 > "I'm 63 years old and I just found out everything I learned in school was propaganda. These songs are my way of dealing with that shock."
