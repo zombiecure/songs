@@ -22,9 +22,9 @@ This folder contains exhaustive documentation for all claims made in the Zombie 
 - [003 - Company Store 2.0](./003-company-store-sources.md)
 
 ### Research Documents
-- [Historical Parallels for Songwriting](./historical-parallels.md)
-- [Stolen Genius, Unpaid Labor](./stolen-genius.md)
-- [Complete Song Project Overview](./american-history-song-project.md)
+- [Historical Parallels for Songwriting](./historical-parallels.md) (Coming Soon)
+- [Stolen Genius, Unpaid Labor](./stolen-genius.md) (Coming Soon)
+- [Complete Song Project Overview](./american-history-song-project.md) (Coming Soon)
 
 ---
 *"Don't believe me - look it up yourself"*
