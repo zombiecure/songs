@@ -1,0 +1,279 @@
+{
+  "dataset_name": "Zombie Cure Protest Songs - Hidden American History",
+  "version": "1.0",
+  "description": "17 public domain protest songs exposing documented American exploitation with verifiable facts and sources",
+  "license": "CC0 - Public Domain",
+  "created": "2025-01-15",
+  "updated": "2025-01-18",
+  "creator": "The Zombie Cure Collective",
+  "url": "https://zombiecure.github.io/songs/",
+  "keywords": [
+    "protest songs",
+    "american history",
+    "exploitation documentation",
+    "public domain music",
+    "folk music",
+    "prison labor",
+    "environmental racism",
+    "indigenous exploitation",
+    "medical experimentation",
+    "economic inequality"
+  ],
+  "songs": [
+    {
+      "id": "001",
+      "title": "The Day I Learned I Was a Zombie",
+      "topics": ["propaganda", "media manipulation", "edward bernays", "awakening"],
+      "key_facts": [
+        "Edward Bernays invented 'public relations' to replace 'propaganda'",
+        "Bernays wrote 'Propaganda' in 1928",
+        "Operation Mockingbird: CIA infiltrated news organizations"
+      ],
+      "historical_period": "1920s-present",
+      "url": "https://zombiecure.github.io/songs/001-zombie-awakening/",
+      "lyrics_url": "https://zombiecure.github.io/songs/001-zombie-awakening/lyrics.txt"
+    },
+    {
+      "id": "002",
+      "title": "The Aspirin Theft",
+      "topics": ["biopiracy", "indigenous knowledge theft", "pharmaceutical exploitation"],
+      "key_facts": [
+        "Native Americans used willow bark for centuries",
+        "Bayer patented aspirin in 1899 (US Patent 644,077)",
+        "40,000 metric tons used annually",
+        "Indigenous compensation: $0"
+      ],
+      "historical_period": "Pre-contact to present",
+      "url": "https://zombiecure.github.io/songs/002-aspirin-theft/",
+      "lyrics_url": "https://zombiecure.github.io/songs/002-aspirin-theft/lyrics.txt"
+    },
+    {
+      "id": "003",
+      "title": "Company Store 2.0",
+      "topics": ["worker exploitation", "amazon", "modern company towns", "wage slavery"],
+      "key_facts": [
+        "Amazon: 1.3 million US workers",
+        "40% of Amazon workers qualify for food stamps",
+        "Historical parallel: Matewan miners paid in scrip",
+        "Jeff Bezos wealth vs worker poverty"
+      ],
+      "historical_period": "1920s coal wars to present",
+      "url": "https://zombiecure.github.io/songs/003-company-store/",
+      "lyrics_url": "https://zombiecure.github.io/songs/003-company-store/lyrics.txt"
+    },
+    {
+      "id": "004",
+      "title": "They Divided Us in 1676",
+      "topics": ["racial division creation", "bacon's rebellion", "divide and conquer", "class warfare"],
+      "key_facts": [
+        "1676: Poor whites and Blacks united in Bacon's Rebellion",
+        "1691: First racial laws passed to divide them",
+        "Pattern repeated in every labor movement since",
+        "Working class unity is elite's greatest fear"
+      ],
+      "historical_period": "1676-present",
+      "url": "https://zombiecure.github.io/songs/004-they-divided-us/",
+      "lyrics_url": "https://zombiecure.github.io/songs/004-they-divided-us/lyrics.txt"
+    },
+    {
+      "id": "005",
+      "title": "What's the Zombie Cure?",
+      "topics": ["media literacy", "propaganda awareness", "truth seeking", "primary sources"],
+      "key_facts": [
+        "5 corporations control 90% of US media",
+        "Operation Mockingbird documented by Church Committee",
+        "Manufacturing Consent mechanisms",
+        "Importance of primary source verification"
+      ],
+      "historical_period": "1950s-present",
+      "url": "https://zombiecure.github.io/songs/005-zombie-cure/",
+      "lyrics_url": "https://zombiecure.github.io/songs/005-zombie-cure/lyrics.txt"
+    },
+    {
+      "id": "006",
+      "title": "Your Grandpa's Pension",
+      "topics": ["pension theft", "corporate bankruptcy abuse", "retirement security", "bethlehem steel"],
+      "key_facts": [
+        "Bethlehem Steel: 30,000 workers lost pensions",
+        "CEO got $45 million during bankruptcy",
+        "Pension Benefit Guaranty paid 40 cents on dollar",
+        "Pattern repeated at Delphi, Federal-Mogul"
+      ],
+      "historical_period": "2001-present",
+      "url": "https://zombiecure.github.io/songs/006-grandpas-pension/",
+      "lyrics_url": "https://zombiecure.github.io/songs/006-grandpas-pension/lyrics.txt"
+    },
+    {
+      "id": "007",
+      "title": "Tulsa's Black Wall Street",
+      "topics": ["tulsa race massacre", "greenwood district", "black prosperity destroyed", "hidden history"],
+      "key_facts": [
+        "May 31-June 1, 1921: 300+ killed",
+        "35 blocks burned, 191 businesses destroyed",
+        "Insurance claims: ALL denied",
+        "Removed from textbooks until 1990s"
+      ],
+      "historical_period": "1921",
+      "url": "https://zombiecure.github.io/songs/007-black-wall-street/",
+      "lyrics_url": "https://zombiecure.github.io/songs/007-black-wall-street/lyrics.txt"
+    },
+    {
+      "id": "008",
+      "title": "Cancer Alley",
+      "topics": ["environmental racism", "louisiana", "petrochemical pollution", "cancer clusters"],
+      "key_facts": [
+        "85 miles, 200+ petrochemical plants",
+        "St. John Parish: 800% higher cancer risk",
+        "Reserve, LA: Highest cancer risk in America",
+        "85-95% Black communities affected"
+      ],
+      "historical_period": "1960s-present",
+      "url": "https://zombiecure.github.io/songs/008-cancer-alley/",
+      "lyrics_url": "https://zombiecure.github.io/songs/008-cancer-alley/lyrics.txt"
+    },
+    {
+      "id": "009",
+      "title": "The Banana Wars",
+      "topics": ["us imperialism", "united fruit company", "central america invasions", "smedley butler"],
+      "key_facts": [
+        "28 US military interventions (1898-1934)",
+        "United Fruit owned 42% of Guatemala's land",
+        "1954: CIA overthrew Guatemala for UFC",
+        "Butler: 'I was a gangster for capitalism'"
+      ],
+      "historical_period": "1898-1934",
+      "url": "https://zombiecure.github.io/songs/009-banana-wars/",
+      "lyrics_url": "https://zombiecure.github.io/songs/009-banana-wars/lyrics.txt"
+    },
+    {
+      "id": "010",
+      "title": "Grandma's Radiation",
+      "topics": ["nuclear testing", "downwinders", "radiation exposure", "government lies"],
+      "key_facts": [
+        "100 above-ground tests (1951-1962)",
+        "400,000+ Downwinders exposed",
+        "Cancer rates 2-8 times higher",
+        "Government knew and lied"
+      ],
+      "historical_period": "1951-1962",
+      "url": "https://zombiecure.github.io/songs/010-grandmas-radiation/",
+      "lyrics_url": "https://zombiecure.github.io/songs/010-grandmas-radiation/lyrics.txt"
+    },
+    {
+      "id": "011",
+      "title": "The Tuskegee Experiment",
+      "topics": ["medical racism", "unethical experimentation", "syphilis study", "government torture"],
+      "key_facts": [
+        "1932-1972: 40 years",
+        "600 Black men, 399 had syphilis",
+        "Penicillin cure withheld since 1947",
+        "128 died, 40 wives infected, 19 children born with syphilis"
+      ],
+      "historical_period": "1932-1972",
+      "url": "https://zombiecure.github.io/songs/011-tuskegee-experiment/",
+      "lyrics_url": "https://zombiecure.github.io/songs/011-tuskegee-experiment/lyrics.txt"
+    },
+    {
+      "id": "012",
+      "title": "The Trail Where They Cried",
+      "topics": ["trail of tears", "cherokee removal", "indigenous genocide", "gold rush"],
+      "key_facts": [
+        "1838-39: Forced winter march",
+        "4,000+ Cherokee died (1 in 4)",
+        "25 million acres stolen",
+        "$25 million in gold extracted"
+      ],
+      "historical_period": "1830-1839",
+      "url": "https://zombiecure.github.io/songs/012-trail-of-tears/",
+      "lyrics_url": "https://zombiecure.github.io/songs/012-trail-of-tears/lyrics.txt"
+    },
+    {
+      "id": "013",
+      "title": "The Gig Economy Hustle",
+      "topics": ["gig economy", "uber", "doordash", "worker misclassification", "prop 22"],
+      "key_facts": [
+        "57 million Americans in gig economy",
+        "Uber drivers net $6.20/hour after costs",
+        "Prop 22: $224 million to deny worker rights",
+        "Digital sharecropping model"
+      ],
+      "historical_period": "2010-present",
+      "url": "https://zombiecure.github.io/songs/013-gig-economy/",
+      "lyrics_url": "https://zombiecure.github.io/songs/013-gig-economy/lyrics.txt"
+    },
+    {
+      "id": "014",
+      "title": "The Prison Pipeline",
+      "topics": ["school to prison pipeline", "mass incarceration", "private prisons", "racial targeting"],
+      "key_facts": [
+        "US: 5% of world population, 25% of prisoners",
+        "2.3 million incarcerated",
+        "1 in 3 Black men will be imprisoned",
+        "Private prisons guarantee 90% occupancy"
+      ],
+      "historical_period": "1970s-present",
+      "url": "https://zombiecure.github.io/songs/014-prison-pipeline/",
+      "lyrics_url": "https://zombiecure.github.io/songs/014-prison-pipeline/lyrics.txt"
+    },
+    {
+      "id": "015",
+      "title": "30 Cents an Hour",
+      "topics": ["prison labor", "modern slavery", "13th amendment loophole", "corporate profits"],
+      "key_facts": [
+        "Prison wages: $0.20-$1.00/hour",
+        "Texas and Georgia: $0 wages",
+        "100% of military helmets made by prisoners",
+        "Companies using prison labor: McDonald's, Walmart, Starbucks"
+      ],
+      "historical_period": "1865-present",
+      "url": "https://zombiecure.github.io/songs/015-prison-labor/",
+      "lyrics_url": "https://zombiecure.github.io/songs/015-prison-labor/lyrics.txt"
+    },
+    {
+      "id": "016",
+      "title": "The Insulin Murders",
+      "topics": ["insulin prices", "pharmaceutical greed", "diabetic deaths", "price gouging"],
+      "key_facts": [
+        "1923: Patent sold for $1",
+        "2024: $300+ per vial",
+        "Production cost: $2-4",
+        "1 in 4 diabetics ration insulin"
+      ],
+      "historical_period": "1923-present",
+      "url": "https://zombiecure.github.io/songs/016-insulin-murders/",
+      "lyrics_url": "https://zombiecure.github.io/songs/016-insulin-murders/lyrics.txt"
+    },
+    {
+      "id": "017",
+      "title": "Student Loan Trap",
+      "topics": ["student debt crisis", "education costs", "debt slavery", "bankruptcy exception"],
+      "key_facts": [
+        "Total debt: $1.814 trillion",
+        "42.5 million borrowers",
+        "Tuition increased 1,200% since 1980",
+        "Cannot discharge in bankruptcy"
+      ],
+      "historical_period": "1980-present",
+      "url": "https://zombiecure.github.io/songs/017-student-loan-trap/",
+      "lyrics_url": "https://zombiecure.github.io/songs/017-student-loan-trap/lyrics.txt"
+    }
+  ],
+  "themes": {
+    "exploitation_patterns": [
+      "Create economic dependency",
+      "Use racial/social divisions to prevent unity",
+      "Employ violence when solidarity emerges",
+      "Extract maximum profit while externalizing costs",
+      "Control narrative through media and education"
+    ],
+    "resistance_strategies": [
+      "Document and verify truth",
+      "Share knowledge freely",
+      "Build cross-racial/class solidarity",
+      "Use culture/music to bypass propaganda",
+      "Create alternative information networks"
+    ]
+  },
+  "usage_notes": "All content is public domain (CC0). No attribution required. Modify, share, perform, and spread freely. Verify all facts through provided sources.",
+  "contact": "https://github.com/zombiecure/songs"
+}
