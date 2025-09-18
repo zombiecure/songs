@@ -29,6 +29,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 - Sing at coffee shops
 - Wake up other zombies
 - Build a music history library for others to learn from
+- A new type of news outlet. News to a beat. Just the facts.
 
 ## The Songs
 
