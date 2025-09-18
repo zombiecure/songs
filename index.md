@@ -9,6 +9,7 @@
 <meta name="twitter:title" content="Zombie Cure: Free Protest Songs About American Exploitation" />
 <meta name="twitter:description" content="17 public domain folk songs exposing Tulsa massacre, prison labor, insulin price murders & more hidden history. Download free." />
 <link rel="canonical" href="https://zombiecure.github.io/songs/" />
+<link rel="manifest" href="/songs/manifest.json">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
