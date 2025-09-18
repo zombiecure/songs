@@ -25,9 +25,10 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 
 **Everything here is free. Public domain. No copyright.**
 - Download the MP3s
-- Learn the chords (usually just 3-4)
+- Learn the chords (usually just 3-5)
 - Sing at coffee shops
 - Wake up other zombies
+- Build a music history library for others to learn from
 
 ## The Songs
 
