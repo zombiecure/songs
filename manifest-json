@@ -1,0 +1,83 @@
+{
+  "name": "Zombie Cure: Truth Songs for Awakening",
+  "short_name": "Zombie Cure",
+  "description": "17 free protest songs exposing hidden American history. Public domain folk music. No copyright.",
+  "start_url": "/songs/",
+  "display": "standalone",
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a",
+  "orientation": "portrait",
+  "scope": "/songs/",
+  "icons": [
+    {
+      "src": "/songs/icons/zombie-cure-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/songs/icons/zombie-cure-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/songs/icons/zombie-cure-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["music", "education", "news", "social"],
+  "screenshots": [
+    {
+      "src": "/songs/screenshots/home.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "label": "Zombie Cure song list"
+    },
+    {
+      "src": "/songs/screenshots/song-page.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "label": "Individual song with lyrics and chords"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Latest Song",
+      "short_name": "Latest",
+      "description": "Jump to the newest truth song",
+      "url": "/songs/017-student-loan-trap/",
+      "icons": [{"src": "/songs/icons/new-song.png", "sizes": "96x96"}]
+    },
+    {
+      "name": "All Songs",
+      "short_name": "Songs",
+      "description": "View all 17 protest songs",
+      "url": "/songs/#songs",
+      "icons": [{"src": "/songs/icons/all-songs.png", "sizes": "96x96"}]
+    },
+    {
+      "name": "Sources",
+      "short_name": "Verify",
+      "description": "Verify all facts yourself",
+      "url": "/songs/sources/",
+      "icons": [{"src": "/songs/icons/sources.png", "sizes": "96x96"}]
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "features": [
+    "songs",
+    "lyrics",
+    "chords",
+    "free",
+    "public domain",
+    "protest",
+    "folk music",
+    "no copyright"
+  ],
+  "lang": "en-US",
+  "dir": "ltr"
+}
