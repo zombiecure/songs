@@ -60,7 +60,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 
 Just a guy who thought he knew history until last month. Middle-class, white, Christian, veteran - basically believed all the "official stories." Then I started researching for a family history project and... holy shit.
 
-I'm not special. I'm not "woke." I'm just shocked and writing songs about it.
+I'm not special. I'm not "woke." I'm just shocked and writing songs about it. Maybe, just maybe, those who have an audience can present these songs or something better to them. If we all get to knowing the truth then we can be more informed on what we say "Yes" or "No" to. This library will continue to grow as I learn more, what's even more shocking is how much there is to know. If you want a wake up call, read/listen to "Lies My Teacher Told Me" by James W. Wolf.
 
 ## Quick Links
 
