@@ -1,0 +1,79 @@
+# Robots.txt for Zombie Cure: Truth Songs for Awakening
+# https://zombiecure.github.io/songs/
+# 
+# Welcome robots! This is public domain content meant to be shared.
+# Please crawl and index everything - we want the truth to spread.
+
+# Allow all search engines
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+# Explicitly allow important bots
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: ia_archiver
+Allow: /
+Crawl-delay: 0
+
+# Allow social media bots
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+# Allow archival bots - we want this preserved
+User-agent: ia_archiver
+Allow: /
+
+User-agent: Wayback Machine
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Sitemap location
+Sitemap: https://zombiecure.github.io/songs/sitemap.xml
+
+# Contact info (optional but good for transparency)
+# Contact: https://github.com/zombiecure/songs/issues
+
+# Note to humans reading this:
+# Everything here is public domain. Mirror it, archive it, share it.
+# The truth wants to be free.
+# 
+# "You can stop a person but not an idea"
