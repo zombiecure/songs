@@ -261,7 +261,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 
 ## Who's Behind The Zombie Cure Protest Songs?
 
-Just a guy who thought he knew American history until last month. Middle-class, white, Christian, veteran - basically believed all the "official stories." Then I started researching for a family history project and... holy shit.
+Just a guy who thought he knew American history until last month. Middle-class, white, Christian - basically believed all the "official stories." Then I started researching for a family history project and... holy shit.
 
 I'm not special. I'm not "woke." I'm just shocked and writing protest songs about what I found. Maybe those with audiences can share these songs or write better ones. If we all learn the truth, we can make informed decisions. This library grows as I learn more. 
 
