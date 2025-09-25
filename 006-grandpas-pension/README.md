@@ -1,7 +1,7 @@
 # Your Grandpa's Pension
 
 ## Listen
-[Download MP3](./grandpas-pension.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./006-grandpas-pension.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 My buddy's grandpa worked 35 years at Bethlehem Steel. They promised him a pension. Then they declared bankruptcy, dumped the pension on the government, and executives walked away with millions. Sound familiar?
