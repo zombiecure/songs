@@ -1,7 +1,7 @@
 # 30 Cents an Hour
 
 ## Listen
-[Download MP3](./30-cents-hour.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./015-30-cents-hour.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 McDonald's uniforms. Walmart products. Microsoft packaging. Made by prisoners earning 30 cents an hour. The 13th Amendment didn't end slavery - it just moved it behind bars.
