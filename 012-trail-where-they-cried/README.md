@@ -1,7 +1,7 @@
 # The Trail Where They Cried
 
 ## Listen
-[Download MP3](./trail-where-they-cried.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./012-trail-where-they-cried.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 They called it "removal." We call it genocide. 60,000 Native Americans forced from their homes at gunpoint. 15,000 died on the march. Why? Gold was found on their land.
