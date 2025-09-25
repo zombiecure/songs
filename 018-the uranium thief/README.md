@@ -3,6 +3,8 @@
 ## About This Song
 "The Uranium Thief" exposes how 4 million tons of uranium were extracted from Navajo lands between 1944-1986 without warning miners about radiation dangers, despite the government knowing the risks since the 1930s. Cancer rates doubled, over 1,000 abandoned mines still contaminate water supplies, and 30% of Navajo households lack clean water today.
 
+[Download MP3](./018-The-Uranium-Thief.mp3) | [View Lyrics](./lyrics.txt)
+
 ## Quick Facts
 - **Written:** January 2024
 - **Key:** D minor (Open D tuning)
