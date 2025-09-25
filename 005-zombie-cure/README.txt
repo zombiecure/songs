@@ -1,7 +1,7 @@
 # What's the Zombie Cure?
 
 ## Listen
-[Download MP3](./zombie-cure.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./005-zombie-cure.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 People keep asking me "What's this zombie cure you're talking about?" Simple. It's waking up to the truth that we've all been fed the same lies. This song explains it.
