@@ -1,5 +1,8 @@
 # Song 021: "George Washington Carver's Gift"
 
+## Listen
+[Download MP3](./021-George-Washington-Carvers-Gift.mp3) | [View Lyrics](./lyrics.txt)
+
 ## About This Song
 "George Washington Carver's Gift" celebrates a man who developed 300+ peanut products and 118 sweet potato innovations, deliberately refusing to patent them because "they should be available to all peoples." His work created what's now an $81 billion global industry, while he lived on $125/month and donated his life savings to education.
 
