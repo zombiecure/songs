@@ -1,7 +1,7 @@
 # Student Loan Trap
 
 ## Listen
-[Download MP3](./student-loan-trap.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./017-student-loan-trap.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 They said college was the ticket to the middle class. Now it's a debt sentence. My neighbor's daughter owes $80,000 for a teaching degree. Her salary? $35,000. Do the math.
