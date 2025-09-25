@@ -1,5 +1,8 @@
 # Song 020: "Henrietta's Trillion Dollar Cells"
 
+## Listen
+[Download MP3](./020-Henriettas-Trillion-Dollar-Cells.mp3) | [View Lyrics](./lyrics.txt)
+
 ## About This Song
 "Henrietta's Trillion Dollar Cells" tells how Johns Hopkins took Henrietta Lacks' cancer cells without consent in 1951. Those "HeLa" cells became the foundation of modern medicine - contributing to polio vaccines, COVID vaccines, and appearing in over 100,000 scientific papers - while her family couldn't afford healthcare and lived in poverty for 70 years.
 
