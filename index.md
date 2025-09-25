@@ -242,6 +242,8 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 15. **[30 Cents an Hour](./015-prison-labor/)** - Modern slavery: prisoners make McDonald's uniforms, military helmets
 16. **[The Insulin Murders](./016-insulin-murders/)** - $300 insulin kills diabetics; patent sold for $1 in 1923
 17. **[Student Loan Trap](./017-student-loan-trap/)** - $1.8 trillion debt trap: education as generational theft
+18. **[The Uranium Thief](./018-the-uranium-thief/)** - Four million tons of uranium extracted from Navajo lands (1944-1986)
+19. 
 
 ### Coming Soon: More Hidden History in Song
 - **The Opioid Pushers** - Sackler family's deliberate mass murder for profit
