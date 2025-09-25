@@ -238,14 +238,14 @@
 ![Zombie Cure: Truth Songs for Awakening - Free protest folk music exposing hidden American history](./zombie-cure-banner.png)
 
 ---
-title: "Zombie Cure: 17 Free Protest Songs Exposing Hidden American History - Public Domain Folk Music"
-description: "Download 17 public domain protest folk songs revealing documented truths about American exploitation: prison slavery at 30 cents/hour, Tulsa massacre, stolen Indigenous medicine, environmental racism. No copyright. Johnny Cash style talking blues. Verify everything yourself."
+title: "Zombie Cure: 22 Free Protest Songs Exposing Hidden American History - Public Domain Folk Music"
+description: "Download 22 public domain protest folk songs revealing documented truths about American exploitation: prison slavery at 30 cents/hour, Tulsa massacre, stolen Indigenous medicine, environmental racism. No copyright. Johnny Cash style talking blues. Verify everything yourself."
 keywords: "protest songs, folk music, American history, free music, public domain, truth songs, protest folk, Woody Guthrie style, Johnny Cash, no copyright music, exploitation history, prison labor songs, environmental racism music, Tulsa Race Massacre, Indigenous exploitation, student debt crisis songs, insulin price crisis, gig economy exploitation"
 author: "The Zombie Cure Collective"
 og:image: "https://zombiecure.github.io/songs/zombie-cure-banner.png"
 ---
 
-# 🧟 The Zombie Cure: 17 Free Protest Songs Exposing Hidden American History
+# 🧟 The Zombie Cure: 22 Free Protest Songs Exposing Hidden American History
 
 > "I'm 63 years old and I just found out everything I learned in school was propaganda. These songs are my way of dealing with that shock."
 
