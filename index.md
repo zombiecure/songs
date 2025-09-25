@@ -276,7 +276,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 9. **[The Banana Wars](./009-banana-wars/)** - 28 US invasions for United Fruit Company (Chiquita) profits
 10. **[Grandma's Radiation](./010-grandmas-radiation/)** - 400,000 Downwinders poisoned by nuclear testing
 11. **[The Tuskegee Experiment](./011-tuskegee-experiment/)** - 40 years of US government medical torture (1932-1972)
-12. **[The Trail Where They Cried](./012-trail-of-tears/)** - Cherokee genocide for $25 million in gold
+12. **[The Trail Where They Cried](./012-trail-where-they-cried/)** - Cherokee genocide for $25 million in gold
 13. **[The Gig Economy Hustle](./013-gig-economy/)** - Uber/DoorDash digital sharecropping at $6/hour
 14. **[The Prison Pipeline](./014-prison-pipeline/)** - Schools closed, prisons built: the profitable pipeline
 15. **[30 Cents an Hour](./015-prison-labor/)** - Modern slavery: prisoners make McDonald's uniforms, military helmets
