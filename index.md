@@ -286,7 +286,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 19. **[Company Script - Same Old Trick](./019-company-script-same-old-trick/)** - Matewan coal mining repeat with Amazon
 20. **[Henrietta's Trillion Dollar Cells](./020-henriettas-trillion-dollar-cells/)** - Henrietta Lacks - cells taken without consent, 1951
 21. **[George Washington Carver's Gift](./021-george-washington-carvers-gift/)** George Washington Carver gave for free what has been exploited to make billions
-22. **[Willowbrook Lullaby](./022-henriettas-trillion-dollar-cells/)** Over 5,000 killed at Willowbrook State School (1947-1987)
+22. **[Willowbrook Lullaby](./022-willowbrook-lullaby/)** Over 5,000 killed at Willowbrook State School (1947-1987)
 
 ### Coming Soon: More Hidden History in Song
 - **The Opioid Pushers** - Sackler family's deliberate mass murder for profit
