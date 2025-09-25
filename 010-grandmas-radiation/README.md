@@ -1,7 +1,7 @@
 # Grandma's Radiation
 
 ## Listen
-[Download MP3](./010-grandmas-radiation.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./010-grandmas-ratiation.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 My friend's grandma lived in St. George, Utah in the 1950s. They called them "Downwinders." The government tested nuclear bombs upwind and told them the fallout was safe. Half the town got cancer.
