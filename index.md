@@ -279,7 +279,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 12. **[The Trail Where They Cried](./012-trail-where-they-cried/)** - Cherokee genocide for $25 million in gold
 13. **[The Gig Economy Hustle](./013-gig-economy/)** - Uber/DoorDash digital sharecropping at $6/hour
 14. **[The Prison Pipeline](./014-prison-pipeline/)** - Schools closed, prisons built: the profitable pipeline
-15. **[30 Cents an Hour](./015-prison-labor/)** - Modern slavery: prisoners make McDonald's uniforms, military helmets
+15. **[30 Cents an Hour](./015-30-cents-hour)** - Modern slavery: prisoners make McDonald's uniforms, military helmets
 16. **[The Insulin Murders](./016-insulin-murders/)** - $300 insulin kills diabetics; patent sold for $1 in 1923
 17. **[Student Loan Trap](./017-student-loan-trap/)** - $1.8 trillion debt trap: education as generational theft
 18. **[The Uranium Thief](./018-the-uranium-thief/)** - Four million tons of uranium extracted from Navajo lands (1944-1986)
