@@ -1,7 +1,7 @@
 # The Insulin Murders
 
 ## Listen
-[Download MP3](./insulin-murders.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./016-insulin-murders.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 The inventors sold the insulin patent for $1 in 1923, saying it belonged to humanity. Now it's $300 a vial. Diabetics ration doses and die. That's not economics - it's murder.
