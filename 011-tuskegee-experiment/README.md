@@ -1,7 +1,7 @@
 # The Tuskegee Experiment
 
 ## Listen
-[Download MP3](./tuskegee-experiment.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./011-tuskegee-experiment.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 "Your government would never experiment on its own people." Really? For 40 years, they watched Black men die from syphilis they could have cured. Called it research. The survivors got an apology in 1997.
