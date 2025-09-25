@@ -32,7 +32,7 @@
     "name": "The Zombie Cure Collective",
     "description": "63-year-old discovering hidden American history through song"
   },
-  "numberOfTracks": 17,
+  "numberOfTracks": 22,
   "track": [
     {
       "@type": "MusicRecording",
@@ -169,9 +169,48 @@
       "description": "$1.8 trillion debt trap: education as generational theft",
       "keywords": "student loan crisis, student debt, education costs, debt slavery",
       "url": "https://zombiecure.github.io/songs/017-student-loan-trap/"
+    },
+    {
+      "@type": "MusicRecording",
+      "position": 18,
+      "name": "The Uranium Thief",
+      "description": "4 million tons stolen from Navajo lands, cancer rates doubled, zero compensation",
+      "keywords": "navajo uranium mining, church rock spill, radiation poisoning, indigenous exploitation",
+      "url": "https://zombiecure.github.io/songs/018-uranium-thief/"
+    },
+    {
+      "@type": "MusicRecording",
+      "position": 19,
+      "name": "Company Scrip (Same Old Trick)",
+      "description": "From coal camp scrip to Amazon warehouses: same exploitation, new technology",
+      "keywords": "company scrip, amazon workers food stamps, walmart exploitation, matewan",
+      "url": "https://zombiecure.github.io/songs/019-company-scrip/"
+    },
+    {
+      "@type": "MusicRecording",
+      "position": 20,
+      "name": "Henrietta's Trillion Dollar Cells",
+      "description": "HeLa cells generated trillions while Lacks family couldn't afford healthcare",
+      "keywords": "henrietta lacks, hela cells, medical exploitation, bioethics, thermo fisher",
+      "url": "https://zombiecure.github.io/songs/020-henriettas-cells/"
+    },
+    {
+      "@type": "MusicRecording",
+      "position": 21,
+      "name": "George Washington Carver's Gift",
+      "description": "300+ inventions given freely, now an $81 billion industry he never profited from",
+      "keywords": "george washington carver, peanut industry, patent-free innovation, tuskegee",
+      "url": "https://zombiecure.github.io/songs/021-carvers-gift/"
+    },
+    {
+      "@type": "MusicRecording",
+      "position": 22,
+      "name": "Willowbrook Lullaby",
+      "description": "Disabled Americans: from mass death in institutions to $0.22/hour exploitation today",
+      "keywords": "willowbrook state school, disability exploitation, sheltered workshops, pennhurst",
+      "url": "https://zombiecure.github.io/songs/022-willowbrook-lullaby/"
     }
-   {
-  ]
+]
 }
 </script>
 
