@@ -1,5 +1,8 @@
 # Song 022: "Willowbrook Lullaby"
 
+## Listen
+[Download MP3](./022-Willowbrook-Lullaby.mp3) | [View Lyrics](./lyrics.txt)
+
 ## About This Song
 "Willowbrook Lullaby" exposes America's shameful treatment of disabled people through institutions where half the residents died. From Willowbrook's 100% hepatitis infection rate (through deliberate medical experiments) to today's legal sub-minimum wages of $0.22/hour, the exploitation continues. This dark lullaby format forces listeners to confront ongoing eugenics.
 
