@@ -268,7 +268,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 1. **[The Day I Learned I Was a Zombie](./001-zombie-awakening/)** - Personal awakening to propaganda
 2. **[The Aspirin Theft](./002-aspirin-theft/)** - How Bayer stole Native American willow bark medicine for billions
 3. **[Company Store 2.0](./003-company-store/)** - Amazon warehouses recreate 1920s coal camp exploitation
-4. **[They Divided Us in 1676](./004-they-divided-us/)** - Bacon's Rebellion: how elites manufactured racial division
+4. **[They Divided Us in 1676](./004-divided-1676/)** - Bacon's Rebellion: how elites manufactured racial division
 5. **[What's the Zombie Cure?](./005-zombie-cure/)** - Understanding propaganda and finding truth through primary sources
 6. **[Your Grandpa's Pension](./006-grandpas-pension/)** - Bethlehem Steel's theft of 30,000 worker pensions
 7. **[Tulsa's Black Wall Street](./007-black-wall-street/)** - 1921 Greenwood massacre hidden from history books
