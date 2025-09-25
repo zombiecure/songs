@@ -314,7 +314,7 @@ I'm not special. I'm not "woke." I'm just shocked and writing protest songs abou
 
 ## Quick Links for Free Protest Song Downloads
 
-- [Download All 17 Songs (ZIP)](#) - Coming soon
+- [Download All 22 Songs (ZIP)](#) - Coming soon
 - [Chord Charts PDF for All Songs](#) - Coming soon
 - [Source Documentation](./sources/) - Verify every fact yourself
 - [Request a Truth Song](https://github.com/zombiecure/songs/issues) - What hidden history shocked you?
