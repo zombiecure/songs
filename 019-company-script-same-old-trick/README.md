@@ -1,5 +1,8 @@
 # Song 019: "Company Script (Same Old Trick)"
 
+## Listen
+[Download MP3](.019-Company-Script-Same-Old-Trick.mp3) | [View Lyrics](./lyrics.txt)
+
 ## About This Song
 "Company Scrip" connects the coal mining company store system of the 1920s to modern practices at Amazon and Walmart, showing how America's largest employers use the same exploitation tactics: pay workers so little they need government assistance, then profit from both their labor and their spending.
 
