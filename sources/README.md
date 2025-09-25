@@ -22,7 +22,7 @@ This folder contains exhaustive documentation for all claims made in the Zombie 
 - [003 - Company Store 2.0](./003-company-store-sources.md)
 - [004 - Divided 1676](./004-divided-1676-sources.md)
 - [005 - Zombie Cure](./005-zombie-cure-sources.md)
-- [006 - Grandpa's Pendion](./006-grandpas-pension-sources.md)
+- [006 - Grandpa's Pension](./006-grandpas-pension-sources.md)
 - [007 - Black Wall Street](./007-black-wall-street-sources.md)
 - [008 - Cancer Alley](./008-canceler-alley-sources.md)
 - [009 - Banana Wars](./009-banana-wars-sources.md)
