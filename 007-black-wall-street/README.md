@@ -1,7 +1,7 @@
 # Tulsa's Black Wall Street
 
 ## Listen
-[Download MP3](./black-wall-street.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./007-black-wall-street.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 They don't teach this in school: Greenwood District, Tulsa, 1921. Most prosperous Black community in America. 300 dead, 35 blocks burned, 10,000 homeless. Why? They were too successful.
