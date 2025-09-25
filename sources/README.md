@@ -24,7 +24,7 @@ This folder contains exhaustive documentation for all claims made in the Zombie 
 - [005 - Zombie Cure](./005-zombie-cure-sources.md)
 - [006 - Grandpa's Pension](./006-grandpas-pension-sources.md)
 - [007 - Black Wall Street](./007-black-wall-street-sources.md)
-- [008 - Cancer Alley](./008-canceler-alley-sources.md)
+- [008 - Cancer Alley](./008-cancer-alley-sources.md)
 - [009 - Banana Wars](./009-banana-wars-sources.md)
 - [010 - Grandma's Radiation](./010-grandmas-radiation-sources.md)
 - [011 - Tuskegee Experiment](./011-tuskegee-experiment-sources.md)
