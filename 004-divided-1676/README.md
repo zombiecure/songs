@@ -1,7 +1,7 @@
 # They Divided Us in 1676
 
 ## Listen
-[Download MP3](./divided-1676.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./004-divided-1676.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 Bacon's Rebellion scared the hell out of the rich. Poor whites and enslaved Blacks fought together against the plantation owners. So they invented race laws to split us up. Still works today.
