@@ -1,7 +1,7 @@
 # Cancer Alley
 
 ## Listen
-[Download MP3](./cancer-alley.mp3) | [View Lyrics](./lyrics.txt)
+[Download MP3](./008-cancer-alley.mp3) | [View Lyrics](./lyrics.txt)
 
 ## The Story
 85 miles along the Mississippi River in Louisiana. Over 200 petrochemical plants. The residents? Descendants of enslaved people. The cancer rates? Through the roof. They built poison on the old plantations.
