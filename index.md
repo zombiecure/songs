@@ -309,7 +309,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 
 19. **[George Washington Carver's Gift](./021-george-washington-cargers-gift/)** George Washington Carver gave for free what has been exploited to make billions
 
-20. **./022-willowbrook-lullaby/** Over 5,000 killed at Willowbrook State School (1947-1987)
+20. **[Willowbrook Lullaby](./022-willowbrook-lullaby/)** Over 5,000 killed at Willowbrook State School (1947-1987)
 
 21. Medicine Thieves: Willowbark to Aspirin (Coming Soon)
 
