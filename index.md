@@ -333,7 +333,7 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 
 31. **[US Constitution - Free Market Slaves](./033-us-constitution-free-market-slaves/)**: They say you're free to choose where to work
 
-32. **[US Constitution - Nobody Wants to Work (At Being Your Slave)](./034-us-constitution-nobody -wants-to-work--at-being-your-slave/)**: Workers aren't lazy but rejecting slavery
+32. **[US Constitution - Nobody Wants to Work (At Being Your Slave)](./034-us-constitution-nobody-wants-to-work--at-being-your-slave/)**: Workers aren't lazy but rejecting slavery
 
 33. **[US Constitution - The Organization You Cannot Kill](./035-us-constitution-we-the-people--the-organization-you-cant-kill/)**: we have the power to destroy corporate rule through coordinated economic withdrawal, but are trapped by survival needs
 
