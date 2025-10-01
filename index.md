@@ -317,25 +317,25 @@ We're all zombies, fed lies since birth. The cure? Truth, delivered in simple so
 
 23. Medicine Thieves: Arrested For Healing (Coming Soon)
 
-24. **[US Constitution - The Court Reporter's Lie](./026-us-constitution-the-court-reporters-lie.mp3)****: How corporations became people in the US Constitution
+24. **[US Constitution - The Court Reporter's Lie](./026-us-constitution-the-court-reporters-lie/)****: How corporations became people in the US Constitution
 
-25. **[US Constitution -  Money Talks Marie Walks](./027-us-constitution-money-talks-maria-walks.mp3)**: Unlimited corporate political spending
+25. **[US Constitution -  Money Talks Marie Walks](./027-us-constitution-money-talks-maria-walks/)**: Unlimited corporate political spending
 
-26. **./028-us-constitution-jimmys-ratio.mp3**: CEO-to-worker pay ratio: 21:1 (1965) → 351:1 (2020)
+26. **[US Constitution -  Jimmy's Ratio](./028-us-constitution-jimmys-ratio/)**: CEO-to-worker pay ratio: 21:1 (1965) → 351:1 (2020)
 
-27. **[US Constitution - Susette's Pink House](./029-us-constitution-susettes-pink-house.mp3)**: Eminent Domain for private development
+27. **[US Constitution - Susette's Pink House](./029-us-constitution-susettes-pink-house/)**: Eminent Domain for private development
 
-28. **[US Constitution - Ten Butchers in Texas](./030-us-constitution-ten-butchers-in-texas.mp3)**: the Constitution's "freedom of assembly" doesn't apply at work.
+28. **[US Constitution - Ten Butchers in Texas](./030-us-constitution-ten-butchers-in-texas/)**: the Constitution's "freedom of assembly" doesn't apply at work.
 
-29. **[US Constitution - Georgia 1810 Where It All Began](./031-us-constitution-georgia-1810-where-it-all-began.mp3)**: Every corporate constitutional right traces back to protecting corruption in Georgia.
+29. **[US Constitution - Georgia 1810 Where It All Began](./031-us-constitution-georgia-1810-where-it-all-began/)**: Every corporate constitutional right traces back to protecting corruption in Georgia.
 
-30. **[US Constitution - Sign Here (Your Rights Away)](.\032-us-constitution-sign-here-your-rights-away.mp3)**: Employment contracts force workers to surrender constitutional rights to get jobs
+30. **[US Constitution - Sign Here (Your Rights Away)](./032-us-constitution-sign-here-your-rights-away/)**: Employment contracts force workers to surrender constitutional rights to get jobs
 
-31. **[US Constitution - Free Market Slaves](.\033-us-constitution-free-market-slaves.mp3)**: They say you're free to choose where to work
+31. **[US Constitution - Free Market Slaves](./033-us-constitution-free-market-slaves/)**: They say you're free to choose where to work
 
-32. **[US Constitution - Nobody Wants to Work (At Being Your Slave)](.\034-us-constitution-nobody -wants-to-work--at-being-your-slave.mp3)**: Workers aren't lazy but rejecting slavery
+32. **[US Constitution - Nobody Wants to Work (At Being Your Slave)](./034-us-constitution-nobody -wants-to-work--at-being-your-slave/)**: Workers aren't lazy but rejecting slavery
 
-33. **[US Constitution - The Organization You Cannot Kill](.\035-us-constitution-we-the-people--the-organization-you-cant-kill.mp3)**: we have the power to destroy corporate rule through coordinated economic withdrawal, but are trapped by survival needs
+33. **[US Constitution - The Organization You Cannot Kill](./035-us-constitution-we-the-people--the-organization-you-cant-kill/)**: we have the power to destroy corporate rule through coordinated economic withdrawal, but are trapped by survival needs
 
 ### Coming Soon: More Hidden History in Song
 
